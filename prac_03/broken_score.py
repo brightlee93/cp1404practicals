@@ -7,12 +7,14 @@ Broken program to determine score status
 
 
 def main():
+    # calculate result based on score
     score = float(input("Enter score: "))
     result = calculate_score(score)
     print(result)
 
 
 def calculate_score(score):
+    # sort score into result category
     if score < 0 or score > 100:
         result = "Invalid score"
     elif score >= 90:
