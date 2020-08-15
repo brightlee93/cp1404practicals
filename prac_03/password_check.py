@@ -1,11 +1,12 @@
 MIN_LENGTH = 10
 
+
 def main():
     password = get_password()
-    if len(password) >= MIN_LENGTH:
-        print_password(password)
-    else:
+    while password < MIN_LENGTH:
         print("password not long enough")
+        password = get_password()
+    print_password(password)
 
 
 def print_password(password):
