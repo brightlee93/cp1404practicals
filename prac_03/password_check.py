@@ -10,10 +10,12 @@ def main():
 
 
 def print_password(password):
+    # print result with asterik
     print(len(password) * "*")
 
 
 def get_password():
+    # get password input
     password = input("Enter Password: ")
     return password
 
