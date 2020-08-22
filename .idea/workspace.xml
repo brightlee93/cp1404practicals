@@ -16,9 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd251377-1747-486d-a983-78aad4eb0d2e" name="Default Changelist" comment="add functions note in broken_score.py">
+    <list default="true" id="bd251377-1747-486d-a983-78aad4eb0d2e" name="Default Changelist" comment="add subject_reader.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac_03/broken_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_03/broken_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_04/subject_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_04/subject_reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sandbox/hello.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -65,7 +65,7 @@
       <recent name="C:\Users\brigh\Desktop\Bright\0_JCU\2020s2\CP1404\cp1404practicals\prac_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.broken_score">
+  <component name="RunManager" selected="Python.subject_reader">
     <configuration name="broken_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,64 +88,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_02/files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404practicals" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="password_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hello (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\brigh\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sandbox" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/password_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sandbox/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +110,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lists_warmup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\brigh\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/lists_warmup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="subject_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +140,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_02/password_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/subject_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="total_income" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cp1404practicals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\brigh\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/total_income.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.subject_reader" />
+        <item itemvalue="Python.total_income" />
+        <item itemvalue="Python.lists_warmup" />
+        <item itemvalue="Python.hello (1)" />
         <item itemvalue="Python.broken_score" />
-        <item itemvalue="Python.password_check" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.password_checker" />
-        <item itemvalue="Python.files" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,11 @@
       <workItem from="1597385024507" duration="29000" />
       <workItem from="1597387083125" duration="10000" />
       <workItem from="1597388013008" duration="1249000" />
-      <workItem from="1597449368117" duration="4400000" />
+      <workItem from="1597449368117" duration="4457000" />
+      <workItem from="1597454190223" duration="1008000" />
+      <workItem from="1598067717906" duration="2375000" />
+      <workItem from="1598070120216" duration="32000" />
+      <workItem from="1598070191283" duration="4771000" />
     </task>
     <task id="LOCAL-00001" summary="initial upload">
       <created>1597388506984</created>
@@ -304,7 +308,42 @@
       <option name="project" value="LOCAL" />
       <updated>1597453279551</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add random generate score in broken_score.py">
+      <created>1597453833068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597453833068</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add lists_warmup.py">
+      <created>1598069604878</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598069604878</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add total_income.py">
+      <created>1598071463904</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598071463904</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add subject_data.txt and subject_reader.py">
+      <created>1598071742089</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598071742089</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add subject_reader.py">
+      <created>1598074533813</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1598074533813</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +385,12 @@
     <MESSAGE value="include functions in temperatures.py" />
     <MESSAGE value="include functions in broken_score.py" />
     <MESSAGE value="add functions note in broken_score.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add functions note in broken_score.py" />
+    <MESSAGE value="add random generate score in broken_score.py" />
+    <MESSAGE value="add lists_warmup.py" />
+    <MESSAGE value="add total_income.py" />
+    <MESSAGE value="add subject_data.txt and subject_reader.py" />
+    <MESSAGE value="add subject_reader.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add subject_reader.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="396" y="210" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597366908134">
@@ -358,11 +402,11 @@
     </state>
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597388970783" />
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1597450643856" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1597449525098">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1598070067811">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597366901746" />
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597449525098" />
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598070067811" />
     <state x="495" y="241" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1597450631743">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -372,49 +416,50 @@
     </state>
     <state x="503" y="239" key="Github.ShareDialog/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597389058931" />
     <state x="503" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1597450564038" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1597453807054">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1598074973527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597453807054" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597450850542" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1598074973527" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598070264016" />
     <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596336227952" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1597453807054">
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1598074973527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597453807054" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597450850542" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1598074973527" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598070264016" />
     <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596336227948" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1597453807053">
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1598074973527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597453807053" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597450850542" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1598074973527" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598070264016" />
     <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596336227948" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1597453807054">
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1598074973527">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597453807054" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597450850542" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1598074973527" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598070264016" />
     <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596336227952" />
     <state x="347" y="43" key="RollbackChangesDialog" timestamp="1597388773084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="347" y="43" key="RollbackChangesDialog/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597388773084" />
-    <state x="231" y="0" key="SettingsEditor" timestamp="1597366869298">
+    <state x="231" y="0" key="SettingsEditor" timestamp="1598070058406">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="231" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597366869298" />
+    <state x="231" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598070058406" />
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596248651250" />
     <state x="728" y="132" width="540" height="433" key="StructurePopup" timestamp="1597363953759">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="728" y="132" width="540" height="433" key="StructurePopup/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597363953759" />
     <state x="874" y="160" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1596251048599" />
-    <state x="233" y="61" key="Vcs.Push.Dialog.v2" timestamp="1597453285814">
+    <state x="233" y="61" width="863" height="533" key="Vcs.Push.Dialog.v2" timestamp="1598074546356">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="61" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1597453285814" />
-    <state x="233" y="61" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597451286545" />
+    <state x="233" y="61" width="863" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1280.680@0.0.1280.680" timestamp="1598074546356" />
+    <state x="233" y="61" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598069621126" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597449762779">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -427,10 +472,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cp1404practicals$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1596247293548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1598071425417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1596254491356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/cp1404practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1597375522115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$hello.coverage" NAME="hello Coverage Results" MODIFIED="1597384680445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$subject_reader.coverage" NAME="subject_reader Coverage Results" MODIFIED="1598074973527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1597370398593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$hello__1_.coverage" NAME="hello (1) Coverage Results" MODIFIED="1598067814402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sandbox" />
+    <SUITE FILE_PATH="coverage/cp1404practicals$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1598070205647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/cp1404practicals$_exceptions_demo.coverage" NAME=" exceptions_demo Coverage Results" MODIFIED="1597371312854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1597371979169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/cp1404practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1596253170070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />

@@ -32,7 +32,10 @@ def get_data():
 
 def format_data(data):
     for i in data:
-        print("{} is taught by {:15} and has {:3} students".format(*i))
+        subject = i[0]
+        lecturer = i[1]
+        number_of_student = i[2]
+        print("{} is taught by {:10} and has {:3} students".format(subject, lecturer, number_of_student))
 
 
 main()
